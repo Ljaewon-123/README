@@ -12,6 +12,18 @@
 
 시각화 프로젝트로 장고,시각화 패키지,base64,folium,beautifulsoup4, selenium,드라이버 등등 을 사용
 
+### 2. Bigdata_Project [cshun1006/DI: 3조 : 동헌이와 아이들 (github.com)](https://github.com/cshun1006/DI)
+
+빅데이터 프로젝트로 프로젝트를 AWS 에 배포를하였음
+
+개인 작업 [Ljaewon-123/BD_Project (github.com)](https://github.com/Ljaewon-123/BD_Project)
+
+### 3.FS_Project [soloolol/Fishing: Bigdata project (github.com)](https://github.com/soloolol/Fishing)
+
+de와 ds의 합작으로 퓨전 프로젝트
+
+개인 작업 [Ljaewon-123/FS_Project (github.com)](https://github.com/Ljaewon-123/FS_Project)
+
 
 
 # AI

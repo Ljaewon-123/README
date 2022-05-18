@@ -75,6 +75,12 @@ MongoDB 사용
 
 Oracle 사용
 
+# Kafka
+
+[Kafka](https://github.com/Ljaewon-123/Kafka)
+
+카프카 연습
+
 # Python_practice
 
 ### [Python_practice](https://github.com/Ljaewon-123/Python_practice)

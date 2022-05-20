@@ -77,7 +77,7 @@ Oracle 사용
 
 # Kafka
 
-[Kafka](https://github.com/Ljaewon-123/Kafka)
+### [Kafka](https://github.com/Ljaewon-123/Kafka)
 
 카프카 연습
 
@@ -104,6 +104,12 @@ Python 강의 정리
 ### [Jupyter_notebook](https://github.com/Ljaewon-123/Jupyter_notebook)
 
 주피터 노트북
+
+# vm
+
+### [Ljaewon-123/VM_Ubuntu ](https://github.com/Ljaewon-123/VM_Ubuntu)
+
+VM ware를 사용하여 공부한 내용들 하지만 내용이 너무 많아져 따로 분리해야 할것같다.
 
 # Web
 

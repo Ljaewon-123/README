@@ -26,6 +26,23 @@ de와 ds의 합작으로 퓨전 프로젝트
 
 
 
+
+
+# VM
+
+### [Ljaewon-123/VM_Ubuntu ](https://github.com/Ljaewon-123/VM_Ubuntu)
+
+**Hadoop,Spark,Airflow**등등의 내용들이 있음 
+`VM ware`를 사용하여 공부한 내용들 하지만 내용이 너무 많아져 따로 분리 할 것
+
+## Kafka
+
+### [Kafka](https://github.com/Ljaewon-123/Kafka)
+
+카프카 연습
+
+
+
 # AI
 
 ### [Ljaewon-123/AI (github.com)](https://github.com/Ljaewon-123/AI)
@@ -75,11 +92,7 @@ MongoDB 사용
 
 Oracle 사용
 
-# Kafka
 
-### [Kafka](https://github.com/Ljaewon-123/Kafka)
-
-카프카 연습
 
 # Python_practice
 
@@ -105,12 +118,7 @@ Python 강의 정리
 
 주피터 노트북
 
-# vm
 
-### [Ljaewon-123/VM_Ubuntu ](https://github.com/Ljaewon-123/VM_Ubuntu)
-
-Hadoop,Spark,Airflow 등등의 내용들이 있음 
-VM ware를 사용하여 공부한 내용들 하지만 내용이 너무 많아져 따로 분리해야 할것같다.
 
 # Web
 

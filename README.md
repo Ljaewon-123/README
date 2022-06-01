@@ -109,6 +109,7 @@ Python 강의 정리
 
 ### [Ljaewon-123/VM_Ubuntu ](https://github.com/Ljaewon-123/VM_Ubuntu)
 
+Hadoop,Spark,Airflow 등등의 내용들이 있음 
 VM ware를 사용하여 공부한 내용들 하지만 내용이 너무 많아져 따로 분리해야 할것같다.
 
 # Web

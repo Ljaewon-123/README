@@ -57,7 +57,7 @@ sklearn,tensorflow이용
 
 기본 자료구조 알고리즘
 
-## 2. basic_algorithm
+###  basic_algorithm
 
 ### [basic_algorithm](https://github.com/Ljaewon-123/basic_algorithm) 
 
@@ -94,7 +94,7 @@ Oracle 사용
 
 
 
-# Python_practice
+# Python
 
 ### [Python_practice](https://github.com/Ljaewon-123/Python_practice)
 
@@ -106,11 +106,6 @@ Oracle 사용
 
 pyqt
 
-# Python
-
-### [Python](https://github.com/Ljaewon-123/Python)
-
-Python 강의 정리
 
 # Jupyter_notebook
 
